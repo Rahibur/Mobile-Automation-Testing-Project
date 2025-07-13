@@ -1,6 +1,7 @@
 # Testing General Store .apk app for Mobile testing
 
-[](https://drive.google.com/file/d/1Ds1fLjtaaNjor0CAg6hC-NQHANIVumv7/view?usp=sharing)
+### Click to see the demo video below
+[click the link](https://drive.google.com/file/d/1Ds1fLjtaaNjor0CAg6hC-NQHANIVumv7/view?usp=sharing)
 
 ### **Connect an Emulator**
 
