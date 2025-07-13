@@ -69,11 +69,11 @@
 - [ ] Below are the **desired capabilities**  
 - [ ] input : 
 
-                          platformName , text, Android  
-                            automationName, text, UiAutomator2  
-                            **If emulator:** deviceName, text, \<emulator\_device\_name\>  
-                            **If Real or emulator Device:** udid, text, \<device\_id\_number\>  
-                            app.text,\<pate the .apk file location\_in your pc\>
+            platformName , text, Android  
+            automationName, text, UiAutomator2  
+            If emulator: deviceName, text, \<emulator\_device\_name\>  
+            If Real or emulator Device: udid, text, \<device\_id\_number\>  
+            app.text,\<pate the .apk file location\_in your pc\>
 
 - [ ] **Click the Checkbox** to automatically add the necessary   
 - [ ] **Click** the start session button  
@@ -102,7 +102,7 @@
 **Common lang3**:https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.17.0  
 **Commons validator:** https://mvnrepository.com/artifact/commons-validator/commons-validator/1.9.0
 
-                                         goto appium \> click saved capabilities\>Click Edit icon  
+              goto appium \> click saved capabilities\>Click Edit icon  
 Start the session
 
 * **Write desired codes in the Java/src/test folder.**  
