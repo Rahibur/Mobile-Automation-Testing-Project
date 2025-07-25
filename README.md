@@ -105,9 +105,8 @@
 **Common lang3**:https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.17.0  
 **Commons validator:** https://mvnrepository.com/artifact/commons-validator/commons-validator/1.9.0
 
-              goto appium \> click saved capabilities\>Click Edit icon  
-Start the session
-
+* goto appium \> click saved capabilities\>Click Edit icon  
+* Start the session
 * **Write desired codes in the Java/src/test folder.**  
 * **Add the General-Store.apk file to the resources folder.**  
 * **Run the Test code.**
